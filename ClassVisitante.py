@@ -3,6 +3,7 @@ from ClassMientrasQue import*
 from ClassMostrar import*
 from ClassSi import*
 
+
 class Visitante:
     def __init__(self):
     # Indica el nivel actual de tabulación.
