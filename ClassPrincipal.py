@@ -7,3 +7,11 @@ class principal:
     bloque_alternativa = Bloque()
     bloque_alternativa.agregarInstruction(alternativa)
     bucle = MientrasQue(True, bloque_alternativa)
+
+    while True:
+        if 2 + 2 == 4:
+            print("OK")
+        else:
+            print("KO")
+
+
